@@ -9,4 +9,13 @@ comparações.
 decrescente e aleatória. Apresente no console os valores dos contadores para cada
 execução (serão 9 execuções no total).
 ---------------------------------------------------------------------------------------------
+
 Lenguage: C#
+
+---------------------------------------------------------------------------------------------
+
+# Print em execução:
+
+![Tela Inicial](/PrintsGifs/printFinal.png)
+
+
