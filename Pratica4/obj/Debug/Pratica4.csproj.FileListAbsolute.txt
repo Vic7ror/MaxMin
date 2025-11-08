@@ -22,3 +22,11 @@ C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED
 C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\obj\Debug\Pratica4.csproj.CoreCompileInputs.cache
 C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\obj\Debug\Pratica4.exe
 C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\obj\Debug\Pratica4.pdb
+C:\Users\Victor\Documents\GitHub\MaxMin\Pratica4\bin\Debug\Pratica4.exe.config
+C:\Users\Victor\Documents\GitHub\MaxMin\Pratica4\bin\Debug\Pratica4.exe
+C:\Users\Victor\Documents\GitHub\MaxMin\Pratica4\bin\Debug\Pratica4.pdb
+C:\Users\Victor\Documents\GitHub\MaxMin\Pratica4\obj\Debug\Pratica4.csproj.AssemblyReference.cache
+C:\Users\Victor\Documents\GitHub\MaxMin\Pratica4\obj\Debug\Pratica4.exe.config
+C:\Users\Victor\Documents\GitHub\MaxMin\Pratica4\obj\Debug\Pratica4.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\GitHub\MaxMin\Pratica4\obj\Debug\Pratica4.exe
+C:\Users\Victor\Documents\GitHub\MaxMin\Pratica4\obj\Debug\Pratica4.pdb
