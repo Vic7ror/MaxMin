@@ -1,0 +1,24 @@
+H:\Visual Studio 2022\Projects\Pratica4\Pratica4\bin\Debug\Pratica4.exe.config
+H:\Visual Studio 2022\Projects\Pratica4\Pratica4\bin\Debug\Pratica4.exe
+H:\Visual Studio 2022\Projects\Pratica4\Pratica4\bin\Debug\Pratica4.pdb
+H:\Visual Studio 2022\Projects\Pratica4\Pratica4\obj\Debug\Pratica4.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Pratica4\Pratica4\obj\Debug\Pratica4.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\Pratica4\Pratica4\obj\Debug\Pratica4.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Pratica4\Pratica4\obj\Debug\Pratica4.exe
+H:\Visual Studio 2022\Projects\Pratica4\Pratica4\obj\Debug\Pratica4.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Pratica4\Pratica4\bin\Debug\Pratica4.exe.config
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Pratica4\Pratica4\bin\Debug\Pratica4.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Pratica4\Pratica4\bin\Debug\Pratica4.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Pratica4\Pratica4\obj\Debug\Pratica4.csproj.AssemblyReference.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Pratica4\Pratica4\obj\Debug\Pratica4.csproj.SuggestedBindingRedirects.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Pratica4\Pratica4\obj\Debug\Pratica4.csproj.CoreCompileInputs.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Pratica4\Pratica4\obj\Debug\Pratica4.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Pratica4\Pratica4\obj\Debug\Pratica4.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\bin\Debug\Pratica4.exe.config
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\bin\Debug\Pratica4.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\bin\Debug\Pratica4.pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\obj\Debug\Pratica4.csproj.AssemblyReference.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\obj\Debug\Pratica4.csproj.SuggestedBindingRedirects.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\obj\Debug\Pratica4.csproj.CoreCompileInputs.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\obj\Debug\Pratica4.exe
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática4 - MaxMin\Pratica4\obj\Debug\Pratica4.pdb
