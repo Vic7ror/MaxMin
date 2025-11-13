@@ -17,6 +17,7 @@ execução (serão 9 execuções no total).
 
 # Print em execução:
 
-![Tela Inicial](/PrintsGifs/printFinal.png)
+1. Tela Inicial
+ - ![Tela Inicial](/PrintsGifs/printFinal.png)
 
 
