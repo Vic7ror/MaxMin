@@ -10,7 +10,8 @@ decrescente e aleatória. Apresente no console os valores dos contadores para ca
 execução (serão 9 execuções no total).
 ---------------------------------------------------------------------------------------------
 
-Lenguage: C#
+- Aplicativos usados: Visual Studio
+- Lenguage: C#
 
 ---------------------------------------------------------------------------------------------
 
